@@ -1,1 +1,1 @@
-https://github.com/Snej0ksG/ono-tebe-nado-ad.git
+https://github.com/Snej0ksG/posmotri-v-okno-ad.git
